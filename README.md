@@ -13,7 +13,5 @@ This repsritory shows the traffic simulation in Chiayi City. Used in the followi
 The result explaination:
 
 The 'blue line' on the graph represents the optimal route.
-
 The 'red line' represents the obstacles.
-
 The 'yellow line' represents the traffic jams.
